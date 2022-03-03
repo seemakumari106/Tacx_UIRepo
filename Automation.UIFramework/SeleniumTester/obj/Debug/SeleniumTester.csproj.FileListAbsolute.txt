@@ -1,0 +1,16 @@
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\obj\Debug\SeleniumTester.csprojAssemblyReference.cache
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\obj\Debug\SeleniumTester.csproj.CoreCompileInputs.cache
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\bin\Debug\SeleniumTester.dll
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\bin\Debug\SeleniumTester.pdb
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\bin\Debug\Automation.UIFramework.dll
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\bin\Debug\WebDriver.dll
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\bin\Debug\Unity.Abstractions.dll
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\bin\Debug\Protractor.dll
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\bin\Debug\Unity.Container.dll
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\bin\Debug\Automation.UIFramework.pdb
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\bin\Debug\Unity.Abstractions.pdb
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\bin\Debug\Protractor.xml
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\bin\Debug\Unity.Container.pdb
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\obj\Debug\SeleniumTester.csproj.CopyComplete
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\obj\Debug\SeleniumTester.dll
+C:\Work Folder\Tacx\Automation.UIFramework\SeleniumTester\obj\Debug\SeleniumTester.pdb

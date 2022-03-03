@@ -1,0 +1,5 @@
+C:\Work Folder\Tacx\Automation.UIFramework\API.Interfaces\bin\Debug\API.Interfaces.dll
+C:\Work Folder\Tacx\Automation.UIFramework\API.Interfaces\bin\Debug\API.Interfaces.pdb
+C:\Work Folder\Tacx\Automation.UIFramework\API.Interfaces\obj\Debug\API.Interfaces.csproj.CoreCompileInputs.cache
+C:\Work Folder\Tacx\Automation.UIFramework\API.Interfaces\obj\Debug\API.Interfaces.dll
+C:\Work Folder\Tacx\Automation.UIFramework\API.Interfaces\obj\Debug\API.Interfaces.pdb

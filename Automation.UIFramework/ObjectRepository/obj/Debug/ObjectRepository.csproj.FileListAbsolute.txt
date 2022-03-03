@@ -1,0 +1,16 @@
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\obj\Debug\ObjectRepository.csprojAssemblyReference.cache
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\obj\Debug\ObjectRepository.csproj.CoreCompileInputs.cache
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\bin\Debug\ObjectRepository.dll
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\bin\Debug\ObjectRepository.pdb
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\bin\Debug\Automation.UIFramework.dll
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\bin\Debug\WebDriver.dll
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\bin\Debug\Unity.Abstractions.dll
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\bin\Debug\Protractor.dll
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\bin\Debug\Unity.Container.dll
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\bin\Debug\Automation.UIFramework.pdb
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\bin\Debug\Unity.Abstractions.pdb
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\bin\Debug\Protractor.xml
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\bin\Debug\Unity.Container.pdb
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\obj\Debug\ObjectRepository.csproj.CopyComplete
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\obj\Debug\ObjectRepository.dll
+C:\Work Folder\Tacx\Automation.UIFramework\ObjectRepository\obj\Debug\ObjectRepository.pdb
